@@ -1,0 +1,59 @@
+body{
+    background-color: silver;
+    margin: 0;
+}
+
+.header {
+    background-color: white; 
+    padding: 1px;   
+}
+
+.header h1{
+    color: black;
+    margin: 0;
+}
+
+.contenedor{
+    display: block;
+    width: 600px;
+    margin: auto;
+}
+
+.publi{
+    background-color: white;
+    margin-top: 20px;
+}
+
+.publi img {
+    width: 100%;
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+}
+
+.texto{
+    width: 80%;
+}
+
+.texto h2{
+    margin: 0%;
+}
+
+.numero{
+    width: 20%;
+    text-align: right;
+    margin: 0%;
+}
+
+span{
+    color: gray;
+}
+
+.publi p{
+    margin: 0;
+    padding: 10px;
+}
+
